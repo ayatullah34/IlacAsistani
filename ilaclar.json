@@ -1,6 +1,6 @@
 [
   {
-    "isim": "Dideral",
+    "isim": "DIDERAL 40 MG 50 TABLET",
     "barkod": "8699809018082",
     "fiyat": "Fiyat: 17,12 TL",
     "etkinMadde": "Etkin Madde: PROPRANOLOL HCL",
@@ -8,11 +8,11 @@
     "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
   },
   {
-    "isim": "Dideral",
-    "barkod": "8699809018082",
-    "fiyat": "Fiyat: 17,12 TL",
-    "etkinMadde": "Etkin Madde: PROPRANOLOL HCL",
-    "uygulamaSekli": "Uygulama Şekli: Dideral ağızdan alınır.Bir bardak suyla tabletinizi çiğnemeden yutunuz.",
+    "isim": "MAXTHIO ODT 8 MG AGIZDA DAGILAN 20 TABLET",
+    "barkod": "8699525079749",
+    "fiyat": "Fiyat: 44,57 TL",
+    "etkinMadde": "Etkin Madde: TIYOKOLSIKOZID",
+    "uygulamaSekli": "Uygulama Şekli: Sadece ağızdan kullanım içindir.Tabletler tok karnına alınmalıdır.",
     "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
   },
   {
