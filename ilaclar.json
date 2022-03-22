@@ -1,7 +1,7 @@
 [
   {
     "isim": "DIDERAL 40 MG 50 TABLET",
-    "barkod": "8699809018082",
+    "barkod": "Barkod: 8699809018082",
     "fiyat": "Fiyat: 17,12 TL",
     "etkinMadde": "Etkin Madde: PROPRANOLOL HCL",
     "uygulamaSekli": "Uygulama Şekli: Dideral ağızdan alınır.Bir bardak suyla tabletinizi çiğnemeden yutunuz.",
@@ -9,7 +9,7 @@
   },
   {
     "isim": "MAXTHIO ODT 8 MG AGIZDA DAGILAN 20 TABLET",
-    "barkod": "8699525079749",
+    "barkod": "Barkod: 8699525079749",
     "fiyat": "Fiyat: 44,57 TL",
     "etkinMadde": "Etkin Madde: TIYOKOLSIKOZID",
     "uygulamaSekli": "Uygulama Şekli: Sadece ağızdan kullanım içindir.Tabletler tok karnına alınmalıdır.",
@@ -17,15 +17,15 @@
   },
   {
     "isim": "LOPID 600 MG 30 TABLET",
-    "barkod": "8681308091239",
-    "fiyat": "Fiyat: 31,78 TLL",
+    "barkod": "Barkod: 8681308091239",
+    "fiyat": "Fiyat: 31,78 TL",
     "etkinMadde": "Etkin Madde: GEMFIBROZIL",
     "uygulamaSekli": "Uygulama Şekli: Ağızdan alınır.Tabletlerin bütün olarak bir bardak su ile yutulması önerilmektedir.",
     "gorsel": "https://raw.githubusercontent.com/ayatullah34/IlacAsistani/main/lopid-600-mg-30-tablet.png"
   },
   {
     "isim": "AYRA PLUS 16/12,5 MG 28 TABLET",
-    "barkod": "8699809018082",
+    "barkod": "Barkod: 8699809018082",
     "fiyat": "Fiyat: 61,82 TL",
     "etkinMadde": "Etkin Madde: KANDESARTAN SILEKSETIL + HIDROKLOROTIYAZID",
     "uygulamaSekli": "Uygulama Şekli: Tabletleri bütün olarak bir bardak su ile yutunuz.Tabletleri her gün aynı saatte almaya çalışınız. Bu, sizin tableti almayı hatırlamanıza yardımcı olacaktır.",
@@ -33,7 +33,7 @@
   },
   {
     "isim": "NAVELBINE 50 MG/5 ML ENJEKSIYONLUK COZELTI",
-    "barkod": "8699749770026",
+    "barkod": "Barkod: 8699749770026",
     "fiyat": "Fiyat: 439,15 TL",
     "etkinMadde": "Etkin Madde: VINORELBIN",
     "uygulamaSekli": "Uygulama Şekli: NAVELBINE, yalnızca damar içine uygulanır. NAVELBINE, kullanılmadan önce sulandırılmalıdır. 6-10 dakika süren bir infüzyon şeklinde uygulanır. Uygulamadan sonra damar steril çözelti ile yıkanmalıdır.",
@@ -41,7 +41,7 @@
   },
   {
     "isim": "SULCID 750 MG FILM KAPLI TABLET (10 TABLET)",
-    "barkod": "8699508090525",
+    "barkod": "Barkod: 8699508090525",
     "fiyat": "Fiyat: 72,10 TL",
     "etkinMadde": "Etkin Madde: SULTAMISILIN",
     "uygulamaSekli": "Uygulama Şekli: Tabletlerinizi yeterli miktarda su ile (örneğin bir bardak) bütün olarak yutunuz.",
@@ -49,7 +49,7 @@
   },
   {
     "isim": "CIPRAM 20 MG 28 TABLET",
-    "barkod": "8699795090567",
+    "barkod": "Barkod: 8699795090567",
     "fiyat": "Fiyat: 30,09 TL",
     "etkinMadde": "Etkin Madde: SITALOPRAM HIDROBROMUR",
     "uygulamaSekli": "Uygulama Şekli: CIPRAM her gün, günde tek doz olarak ağızdan alınır.CIPRAM günün herhangi bir zamanında yemeklerle veya tek başına alınabilir.Tabletler, su ile yutulur. Tabletleri çiğnemeyiniz, tatları acıdır.",
@@ -57,7 +57,7 @@
   },
   {
     "isim": "CARDURA 4 MG 20 TABLET",
-    "barkod": "8699532011121",
+    "barkod": "Barkod: 8699532011121",
     "fiyat": "Fiyat: 31,70 TL",
     "etkinMadde": "Etkin Madde: DOKSAZOSIN MESILAT",
     "uygulamaSekli": "Uygulama Şekli: Ağızdan alınır.CARDURA sabah veya akşam alınabilir.Tabletlerinizi her gün aynı saatte suyla birlikte almanız en iyisidir.CARDURA aç veya tok alınabilir.",
