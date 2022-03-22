@@ -32,35 +32,35 @@
     "gorsel": "https://raw.githubusercontent.com/ayatullah34/IlacAsistani/main/AYRA-PLUS-16-125-MG-28-TABLET.png"
   },
   {
-    "isim": "Dideral",
-    "barkod": "8699809018082",
-    "fiyat": "Fiyat: 17,12 TL",
-    "etkinMadde": "Etkin Madde: PROPRANOLOL HCL",
-    "uygulamaSekli": "Uygulama Şekli: Dideral ağızdan alınır.Bir bardak suyla tabletinizi çiğnemeden yutunuz.",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+    "isim": "NAVELBINE 50 MG/5 ML ENJEKSIYONLUK COZELTI",
+    "barkod": "8699749770026",
+    "fiyat": "Fiyat: 439,15 TL",
+    "etkinMadde": "Etkin Madde: VINORELBIN",
+    "uygulamaSekli": "Uygulama Şekli: NAVELBINE, yalnızca damar içine uygulanır. NAVELBINE, kullanılmadan önce sulandırılmalıdır. 6-10 dakika süren bir infüzyon şeklinde uygulanır. Uygulamadan sonra damar steril çözelti ile yıkanmalıdır.",
+    "gorsel": "https://raw.githubusercontent.com/ayatullah34/IlacAsistani/main/NAVELBINE-50-MG-5-ML-ENJEKSIYONLUK-COZELTI.png"
   },
   {
-    "isim": "Dideral",
-    "barkod": "8699809018082",
-    "fiyat": "Fiyat: 17,12 TL",
-    "etkinMadde": "Etkin Madde: PROPRANOLOL HCL",
-    "uygulamaSekli": "Uygulama Şekli: Dideral ağızdan alınır.Bir bardak suyla tabletinizi çiğnemeden yutunuz.",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+    "isim": "SULCID 750 MG FILM KAPLI TABLET (10 TABLET)",
+    "barkod": "8699508090525",
+    "fiyat": "Fiyat: 72,10 TL",
+    "etkinMadde": "Etkin Madde: SULTAMISILIN",
+    "uygulamaSekli": "Uygulama Şekli: Tabletlerinizi yeterli miktarda su ile (örneğin bir bardak) bütün olarak yutunuz.",
+    "gorsel": "https://raw.githubusercontent.com/ayatullah34/IlacAsistani/main/SULCID-750-MG-FILM-KAPLI-TABLET-10-TABLET.png"
   },
   {
-    "isim": "Dideral",
-    "barkod": "8699809018082",
-    "fiyat": "Fiyat: 17,12 TL",
-    "etkinMadde": "Etkin Madde: PROPRANOLOL HCL",
-    "uygulamaSekli": "Uygulama Şekli: Dideral ağızdan alınır.Bir bardak suyla tabletinizi çiğnemeden yutunuz.",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+    "isim": "CIPRAM 20 MG 28 TABLET",
+    "barkod": "8699795090567",
+    "fiyat": "Fiyat: 30,09 TL",
+    "etkinMadde": "Etkin Madde: SITALOPRAM HIDROBROMUR",
+    "uygulamaSekli": "Uygulama Şekli: CIPRAM her gün, günde tek doz olarak ağızdan alınır.CIPRAM günün herhangi bir zamanında yemeklerle veya tek başına alınabilir.Tabletler, su ile yutulur. Tabletleri çiğnemeyiniz, tatları acıdır.",
+    "gorsel": "https://raw.githubusercontent.com/ayatullah34/IlacAsistani/main/CIPRAM-20-MG-28-TABLET.png"
   },
   {
-    "isim": "Dideral",
-    "barkod": "8699809018082",
-    "fiyat": "Fiyat: 17,12 TL",
-    "etkinMadde": "Etkin Madde: PROPRANOLOL HCL",
-    "uygulamaSekli": "Uygulama Şekli: Dideral ağızdan alınır.Bir bardak suyla tabletinizi çiğnemeden yutunuz.",
-    "gorsel": "https://raw.githubusercontent.com/atilsamancioglu/BTK20-JSONVeriSeti/master/muz.png"
+    "isim": "CARDURA 4 MG 20 TABLET",
+    "barkod": "8699532011121",
+    "fiyat": "Fiyat: 31,70 TL",
+    "etkinMadde": "Etkin Madde: DOKSAZOSIN MESILAT",
+    "uygulamaSekli": "Uygulama Şekli: Ağızdan alınır.CARDURA sabah veya akşam alınabilir.Tabletlerinizi her gün aynı saatte suyla birlikte almanız en iyisidir.CARDURA aç veya tok alınabilir.",
+    "gorsel": "https://raw.githubusercontent.com/ayatullah34/IlacAsistani/main/CARDURA-4-MG-20-TABLET.png"
   }
 ]
